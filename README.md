@@ -1,2 +1,2 @@
 ## Machine learning prediction of cognition from functional connectivity: Are feature weights reliable?
-Read the [Preprint](https://www.biorxiv.org/content/10.1101/2021.05.27.446059v1)
+Read the [Manuscript](https://www.sciencedirect.com/science/article/pii/S1053811921009216) published in *NeuroImage*
